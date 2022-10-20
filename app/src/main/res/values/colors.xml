@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#FFFFFF</color>
+
+    <!-- Tip Calculator Colors -->
+    <color name="tipColorPrimary">#3A5874</color>
+    <color name="tipColorSecondary">#355C7D</color>
+    <color name="tipTextColor">#FFFFFF</color>
+
+    <!-- Weather Colors -->
+    <color name="weatherColorPrimary">#6C5B7B</color>
+    <color name="weatherColorSecondary">#355C7D</color>
+    <color name="weatherColorAccent">#FFFFFF</color>
+</resources>
